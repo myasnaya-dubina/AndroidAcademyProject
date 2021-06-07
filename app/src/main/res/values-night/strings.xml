@@ -1,8 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AndroidAcademyProject</string>
     <string name="avengers_end_game">Avengers:\nEnd Game</string>
     <string name="reviews_counts">125 reviews</string>
-    <string name="story_line">Story line</string>
     <string name="story_line_body">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
     <string name="cast">Cast</string>
     <string name="robert_downey_jr">Robert\nDowney Jr.</string>
@@ -10,5 +9,5 @@
     <string name="mark_ruffalo">Mark\nRuffalo</string>
     <string name="chris_hemsworth">Chris\nHemsworth</string>
     <string name="movie_genre">Action, Adventure, Fantasy</string>
-    <string name="pg">13+</string>
+
 </resources>
